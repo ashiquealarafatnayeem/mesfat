@@ -1,0 +1,2 @@
+Put gallery photos in this folder, then list them in content.js (photos section).
+Tip: resize photos to about 1200px wide before uploading so the site loads fast.
