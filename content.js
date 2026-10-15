@@ -12,7 +12,7 @@ window.SITE_CONTENT = {
      Paste a full link between the quotes. Leave '' to hide that icon. */
   socials: {
     youtube:   'https://www.youtube.com/@mesfat_ara_maysha',
-    whatsapp:  '',   // e.g. 'https://wa.me/8801XXXXXXXXX'
+    whatsapp:  'https://wa.me/8801754820091',   // e.g. 'https://wa.me/8801XXXXXXXXX'
     facebook:  'https://www.facebook.com/people/Law-Rights-with-Mesfat/61590376767800/',
     instagram: 'https://www.instagram.com/mesfataraa',
     linkedin:  'https://www.linkedin.com/in/mesfat-ara-maysha-6b2881367/'
